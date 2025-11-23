@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\Users\serhii\Desktop\Levchenko_Lab_8_2\Levchenko_Lab_8_2\MyForm.h(156,18): warning C4244: 'initializing': conversion from 'wchar_t' to 'char', possible loss of data
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Levchenko_Lab_8_2.vcxproj -> C:\Users\serhii\Desktop\Levchenko_Lab_8_2\Debug\Levchenko_Lab_8_2.exe

@@ -1,0 +1,3 @@
+C:\Users\serhii\Desktop\Levchenko_Lab_8\Levchenko_Lab_8\Debug\Levchenko_Lab_8.vcxproj.AssemblyReference.cache
+C:\Users\serhii\Desktop\Levchenko_Lab_8\Levchenko_Lab_8\Debug\LevchenkoLab8.MyForm.resources
+C:\Users\serhii\Desktop\Levchenko_Lab_8\Levchenko_Lab_8\Debug\Levchenko_Lab_8.vcxproj.GenerateResource.cache
